@@ -70,5 +70,5 @@ repositories { flatDir { dirs 'libs' }}dependencies { implementation (name:'lint
 
 到这里，就能使用自定义的lint规则了。如果不生效，重启Android Studio看看。
 
-### 2.3、demo地址
+
 
