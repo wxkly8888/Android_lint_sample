@@ -12,6 +12,6 @@ targetCompatibility = "1.8"
 
 jar {
     manifest {
-        attributes("Lint-Registry-v2": "top.omooo.lint_library.CustomIssueRegistry")
+        attributes("Lint-Registry-v2": "com.wxkly.lintmodule.CustomIssueRegistry")
     }
 }
